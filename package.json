@@ -1,0 +1,12 @@
+{
+  "name": "backed-dev",
+  "version": "1.0.0",
+  "description": "this is start of backend dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "author": "Backend dev",
+  "license": "ISC"
+}
