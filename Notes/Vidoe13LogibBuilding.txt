@@ -1,0 +1,12 @@
+*******Register User********************************
+steps:
+1- get user details from frontend.
+2- validation - not empty
+3- check if user alreay exist: :  (with username or email | use both)
+4- check for images , check for avatar
+5- upload then to cloudnary
+6- ceate a user object - create entry in db
+7- remove password and refresh token field from response
+8- check for user creation 
+8- return res
+THIS IS ALOGORITHEM TO REGISTER User
